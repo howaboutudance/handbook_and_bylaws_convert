@@ -1,7 +1,7 @@
 library(testthat)
 
 pandoc <- rmarkdown::pandoc_exec()
-filter <- normalizePath("filters/bylaws-numbering.lua")
+filter <- normalizePath("../filters/bylaws-numbering.lua")
 
 run_filter <- function(md) {
   tmp <- tempfile(fileext = ".md")
