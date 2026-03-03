@@ -1,0 +1,37 @@
+# environment and build files to ignore
+renv/
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+.Rprofile
+
+# output files to ignore
+output/*.html
+output/*.pdf
+output/*.docx
+
+# input files to ignore
+input/*.pdf
+
+# build files to ignore
+*.log
+*.aux
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
+*.fls
+*.fdb_latexmk
+
+# temporary files to ignore
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# OS-specific files to ignore
+.DS_Store
+Thumbs.db
