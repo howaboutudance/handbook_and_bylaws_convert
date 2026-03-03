@@ -5,7 +5,7 @@ Place `reference.docx` here. This file controls Word heading and body styles for
 ## Generating the initial template
 
 This must be done **once before** running `render.R`. The command below renders
-the handbook using Word's built-in defaults (bypassing the missing
+s
 `reference.docx`) to produce the template file itself:
 
 ```bash

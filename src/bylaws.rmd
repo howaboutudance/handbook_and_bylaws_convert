@@ -1,0 +1,296 @@
+---
+title: "Bylaws"
+subtitle: "The Sisters of Perpetual Indulgence, Abbey of St. Joan — A Washington Nonprofit Corporation"
+date: "Revised July 3, 2014"
+output:
+  word_document:
+    reference_docx: "../styles/reference.docx"
+    toc: true
+    toc_depth: 3
+  pdf_document:
+    toc: true
+    toc_depth: 3
+    number_sections: false
+---
+
+## Article 1: Corporate Name
+
+The name of this corporation shall be The Sisters of Perpetual Indulgence, Abbey of St. Joan.
+
+---
+
+## Article 2: Offices
+
+### Section 1: Principle Executive Office
+
+The corporation's principle executive office shall be fixed and located at such place as the Board of Directors (herein referred to as the Board) shall determine within Seattle, Washington. The Board is granted the power and authority to change said principle executive office from one location to another.
+
+### Section 2: Other Offices
+
+The Board may, at any time, establish branch or subordinate offices at any place or places where the corporation is qualified to do business.
+
+---
+
+## Article 3: Objectives and Purposes
+
+### Section 1: Specific Purpose
+
+#### Subsection A
+
+This corporation is a nonprofit public benefit corporation and is not organized for the private gain of any person. It is organized as a nonprofit corporation for charitable purposes.
+
+#### Subsection B
+
+The primary purpose of The Sisters of Perpetual Indulgence, Abbey of St. Joan (herein referred to as SPI-ASJ) is to perform public service, present theatrical productions, and educate the public.
+
+### Section 2: General Purpose
+
+The general purpose of the corporation shall be to educate the community on safety and health issues, promote awareness, spiritual enlightenment, and the abolishment of bigotry and hatred. SPI-ASJ shall work to raise funds for worthy organizations and needy individuals. The members of SPI-ASJ shall work to bring an end to stereotypes of all kinds.
+
+---
+
+## Article 4: Nonpartisan Activities
+
+The corporation has been formed under Washington nonprofit corporation law for the purposes described above, and it shall be nonprofit and nonpartisan. No substantial part of the activities or earnings shall be used to publish or disseminate materials whose purpose would be to influence legislation, and the corporation shall not substantially participate or intervene in any political campaign on behalf of any candidate for public office. The corporation will not substantially participate or intervene on behalf of or against any cause or measure being submitted to the public for a vote.
+
+Notwithstanding any other provision of these Articles, the corporation shall not carry on any other activities not permitted by (a) a corporation exempt from Federal Income Tax under Section 501(c)(3) of the Internal Revenue Code of 1954 (or corresponding provision of any future United States Internal Revenue Law) or (b) by a corporation contributions to which are deductible under Section 170(c)(2) of the Internal Revenue Code of 1954 (or the corresponding provision of any future United States Internal Revenue Law). The corporation shall not, except in an insubstantial degree, engage in any activities or exercise any powers that are not in furtherance of the purposes described above.
+
+---
+
+## Article 5: Dedication of Assets
+
+The properties and assets of this nonprofit corporation are irrevocably dedicated to charitable purposes. No part of the net earnings, properties, gains, profits, dividends or assets of this corporation, on dissolution or otherwise, shall inure to the benefit of any private person or individual, or any member or director of this corporation. On liquidation or dissolution, all properties and assets and obligations shall be distributed and paid over to an organization dedicated to the charitable purposes consistent with this corporation's philosophy, provided that the corporation continues to be dedicated to the exempt purposes as specified in Internal Revenue Code Section 501(c)(3).
+
+---
+
+## Article 6: Membership
+
+### Section 1: Classification of Members
+
+The general membership of SPI-ASJ shall consist of four (4) levels of members: Fully Professed Members (herein referred to as FP), Novice Sisters, Guards and Postulants. No member may transfer a membership or any right arising therefrom.
+
+#### Subsection A: Fully Professed Members
+
+FP are members for life except in the case of resignation or removal (as specified in Article 13) and have the right to hold any office or be elected to the Board. FP have the right to vote on all issues brought up in general membership meetings at which they are deemed to be in good standing. FP have the right to wear black or colored habits and veils, priest shirts and collars, chair SPI-ASJ events, and to speak to press or the public unless otherwise restricted in accordance with Article 13 of these bylaws.
+
+#### Subsection B: Novice Sister
+
+Novice Sisters are in training to become FP. They must maintain two (2) FP as sponsors at all times. They have no voting rights on progression, may not hold office, sit on the Board, nor speak to the press or the public in an official capacity. Novice Sisters are not agents of the corporation and may not take on any duties without the express approval of a FP.
+
+#### Subsection C: Guard
+
+Guards are considered members, but have no voting rights concerning progressions and cannot be officers nor speak to the press or the public in an official capacity. Guards are not agents of the corporation and may not take on any duties without the express approval of a FP.
+
+#### Subsection D: Postulants
+
+Postulants are petitioners to SPI-ASJ. An individual seeking membership in SPI-ASJ must first secure a FP as a sponsor. They must maintain a FP as a sponsor at all times. They have no voting rights, may not hold office, sit on the Board, or speak to the press or public. Postulants are not agents of the corporation and may not take on any duties without the express approval of a FP.
+
+### Section 2: Progressions
+
+A member can progress from Postulant to Novice, or Novice to FP by an affirmative vote of three-quarters (3/4) of the voting FP at a general membership meeting after satisfying the requirements set forth by the voting membership.
+
+### Section 3: Voting Rights
+
+All members in good standing have the right to vote at general membership meetings according to their membership classification. FP are the only members permitted to vote on progressions.
+
+### Section 4: Good Standing
+
+A member shall be considered in good standing if:
+
+a. they have attended a minimum of one of three of the prior general membership meetings;
+b. they have paid any applicable dues or fees in a timely manner, as set by the Board;
+c. they are not on sabbatical;
+d. they have not been censured or had any rights restricted by the general membership;
+e. they have a current membership agreement signed and on file.
+
+Good Standing can be restored after attendance of a general membership meeting, in its entirety.
+
+### Section 5: Powers and Duties
+
+The general membership shall have the majority of power in the organization. They shall have the authority to overturn any decision made by the Board or the officers by a two-thirds (2/3) majority vote at any general membership meeting. The general membership shall approve the annual corporate budget, and authorize all expenditures more than $500. They shall have the absolute right to remove any officer or Board member for any reason in accordance with these bylaws. Only FP shall have the authority to grant new membership, change the status of members, or discipline members in accordance with these bylaws. They shall approve any corporate logo, theme, motto, or seal before its usage as well as any changes to the aforementioned.
+
+### Section 6: Sabbatical and Resignation
+
+#### Subsection A: Sabbatical
+
+A Member may request a period of sabbatical at any time. While on sabbatical the member is not required to pay dues, but forfeits all voting rights, any rights to chair committees, and any rights to mentor new members.
+
+#### Subsection B: Resignation
+
+Resignation of a Member shall be effective upon receipt of written notice by the President or Secretary of the Board. Any resignation may be rescinded up to forty-eight (48) hours after submission if the Member is leaving without due cause.
+
+---
+
+## Article 7: Board of Directors
+
+### Section 1: Composition
+
+The Board shall be composed of seven (7) members: the President, Vice-President, Secretary, and Treasurer and three (3) At-large board members. Members of the Board shall be elected at the annual membership meeting.
+
+### Section 2: Officers of the Board
+
+The Board shall have a President, Vice-President, Secretary, and Treasurer. The secretary of the Board may not hold any other Board office.
+
+#### Subsection A: President
+
+The President shall be responsible for preparing the agendas for Board meetings, conduct and arbitrate all meetings of the Board. The chair shall help to prepare a budget for the Organization within thirty (30) days of election. The President shall appoint special committees for the Board as necessary, and report all Board actionable agenda items to the general membership at the subsequent general membership meeting.
+
+#### Subsection B: Vice-President
+
+The Vice-President shall be responsible for all duties of the President in the President's absence.
+
+#### Subsection C: Secretary
+
+The Secretary of the Board shall take the minutes of Board meetings, keep the roster of attendance at Board meetings, and notify all FP members of upcoming meetings of the Board or Board events.
+
+#### Subsection D: Treasurer
+
+The Treasurer of the Board shall handle all moneys of the Board and see that accurate records are kept on expenditures. Within thirty (30) days of their election they shall submit an Organization budget for the Board's approval.
+
+### Section 3: At Large Board Members
+
+Three at large board members are elected each year at the annual membership meeting. The general membership will vote on the at large board positions one (1) time, with the three (3) FP receiving the most number of votes taking the three (3) available positions.
+
+### Section 4: Qualification of Directors
+
+#### Subsection A: Requirements
+
+All candidates for the Board must be FP eligible to vote at the annual meeting.
+
+#### Subsection B: Restrictions
+
+Not more than 49% of the Board serving at any time may be interested persons. An interested person is anyone being compensated by the corporation for services rendered to it within the previous 12 months or the subsequent 12 months of the annual meeting; and any immediate family member, spouse, or domestic partner.
+
+### Section 5: Powers and Duties
+
+The Board will: exercise all of the powers of the corporation and supervise and control its business and affairs, subject only to the limitations and restrictions provided by law and these bylaws; authorize the execution of contracts, incur indebtedness and other agreements necessary in the name of and to the efficient conduct of the business of the corporation with the exception of the President who may incur indebtedness in the name of the corporation (not to exceed $250 without prior board approval); propose the annual budget, supervise credits and debits, and review or revise systems setup for auditing, cash flow, and inspection of all corporate assets. The Board may, from time to time, add or subtract subcommittees needed to fulfill the requirements of the activities of the corporation. Directors will also exercise such other powers and perform such other duties as may be prescribed elsewhere in these bylaws. Robert's Rules of Order will be used to determine those power or duties not specified.
+
+### Section 6: Quorum
+
+A majority of the seated directors must be present at a meeting to constitute a quorum for the transaction of business, including the Chair or the Alternate Chair.
+
+### Section 7: Proxies
+
+Proxies shall not be accepted on any vote.
+
+### Section 8: Election and Term of Office
+
+Directors shall be elected by the eligible voting members at the annual membership meeting and will hold office until the close of their term. Directors elected to fill vacancies shall also serve the remainder of the term. Candidates may not engage in any activities that can be interpreted as procuring of votes, nor may they establish an "election campaign" that utilizes moneys or donated services from any individual or group.
+
+### Section 9: Vacancies
+
+A vacancy in any director's position shall be deemed to exist on the occurrence of resignation, removal or death; the absence without prior notification from two (2) consecutive Board meetings; the failure to fill all positions at the annual general membership meeting; or amendment to these bylaws to increase the size of the Board. No amendment to reduce the number of directors will affect directors currently serving. Elections to fill vacancies on the Board shall be held at the first general membership meeting following the vacancy. Individuals filling vacancies serve only for the remainder of the original term of the office, and may seek re-election at the annual meeting.
+
+#### Subsection A: Resignations
+
+Resignation of a director shall be effective upon receipt of written notice by the President or Secretary of the Board. Resignations may be rescinded up to forty-eight (48) hours after submission if the director is leaving without due cause.
+
+#### Subsection B: Removal
+
+Any director may be removed by two-thirds (2/3) vote of the voting members at a general membership meeting if it has been determined that they have had two (2) consecutive absences, acted against or jeopardized the corporation, operated in a manner contrary to the actions of a reasonable and ordinarily prudent person, and/or has given due cause for removal. Voting for removal shall be done by secret ballot. A director may file a grievance to contest or appeal a decision for removal as outlined in Article 12, Grievances.
+
+### Section 10: Board Meetings
+
+Meetings of the Board of SPI-ASJ shall be open to the public. Robert's Rules of Order and Consensus are both used as informal guidelines during meetings. The bylaws supersede Robert's Rules of Order, and Consensus in case of conflict.
+
+#### Subsection A: Regular Meetings
+
+All meetings of the Board may be held at any place within or outside the state of Washington that has been designated by resolution of the Board. All board members must be notified at least seventy-two (72) hours before the meeting. Regular meetings of the Board shall be held at least once per quarter. All regular meetings of the Board must be held within the state of Washington unless there is unanimous written approval of the Board.
+
+#### Subsection B: Special Meetings
+
+A special meeting may be held by telephone or similar communication equipment provided that all directors participate either by conference call, or individual calls so long as all directors are read the question(s) or statement(s) in the same exact manner. Telephone meetings may only be conducted by the Board Chair, or by the Board Secretary at the instruction of the Chair, or by the Alternate Chair in the absence of the Chair.
+
+#### Subsection C: Annual Meeting
+
+The annual meeting of the Board shall be held no more than thirty (30) days after the annual membership meeting, and shall be attended by new and current board members.
+
+---
+
+## Article 8: Corporate Officers
+
+The officers of the Corporation shall be a President, a Vice-president, a Secretary, and a Chief Financial Officer (CFO). The Corporation will maintain Director and Operators Insurance. No individual may hold more than one office at a time.
+
+### Section 1: Responsibilities
+
+#### Subsection A: President
+
+The president shall prepare the agendas for and preside at all regular and special meetings of the corporation; to direct, subject to the advice of the Board, the planning of the functions of the corporation and its activities; to assist, within thirty (30) days of taking office, in the creation of a budget and a time line for the corporation, as needed. Other duties may be determined by these bylaws or at the discretion of the Board.
+
+#### Subsection B: Vice-President
+
+The Vice-president shall serve as the assistant to the President in all duties of the president, and shall assume the duties of the President in his or her absence. They shall also assume those duties delegated to them by the President. The Vice-president is responsible for the dissemination of educational materials to all Novices and Postulants and for tracking the status of all Novices and Postulants. Other duties may be determined by these bylaws or at the discretion of the Board.
+
+#### Subsection C: Corporate Secretary
+
+The Secretary shall be responsible for maintaining an accurate roster of membership; maintaining a current list of those serving on special or standing committees of the general membership; to accurately record and produce written minutes of all general membership meetings; to give, or cause to be given, notice of all meetings of the general membership as required in these bylaws; to keep the seal and records of the corporation in safe custody if there is one; and may have to perform other such powers as prescribed by these bylaws or by the Board. The Corporate Secretary shall act as the official correspondent for the corporation.
+
+#### Subsection D: Chief Financial Officer
+
+The CFO shall be responsible for maintaining accurate records of all financial transactions of the corporation; to transact or supervise transaction of all disbursements and receivables and to keep accurate records of such; to deposit all moneys and valuables in the name of and to the credit of the corporation in such depositories as may be designated by the Board; to submit to the Board a full quarterly financial report listing expenditures, receivables, and conditions of assets; to prepare for submission all necessary books, vouchers, and records for audit by an independent certified public accountant at the end of each term of officer or upon request by two-thirds (2/3) vote of the Board; to produce said audit at the annual meeting; and to serve as one (1) of three (3) cosignatories on the accounts of the corporation (the other two (2) shall be the President and Secretary of the corporation).
+
+#### Subsection E: At Large Board Members
+
+At large board members will be called upon to assist the corporate officers with special projects or general duties. When acting in this capacity, at large board members are empowered to act in accordance with Subsections A–D of this section.
+
+### Section 2: Vacancies
+
+Elections to fill vacancies on the Board shall be held at the first general membership meeting following the vacancy. Individuals filling vacancies serve only for the remainder of the original term of the office, and may seek re-election at the annual meeting.
+
+---
+
+## Article 9: Elections
+
+Nominations for officers and Board of Directors shall be accepted at the last regular general membership meeting scheduled before the annual meeting and will remain open until elections at the annual membership meeting.
+
+---
+
+## Article 10: Fiscal Year
+
+The fiscal year of the corporation shall begin on January 1 and end on December 31 in each year.
+
+---
+
+## Article 11: Rights and Procedures
+
+### Section 1: Inspection of Books and Records
+
+Every member has the absolute right at any reasonable time to inspect all books, records and documents of this corporation. This inspection may be made in person, or by the member's agent or attorney. The right of inspection includes the right to copy and make extracts of documents.
+
+### Section 2: Amendments
+
+#### Subsection A: Bylaws
+
+A two-thirds (2/3) majority vote of eligible voting members present at two (2) consecutive regular or special general membership meetings is required for amendment, provided that the proposed amendment has been submitted to the Secretary before that meeting and it appears on the agenda. The amendment will become effective immediately after passing the second reading, unless it affects a term of office or specifies otherwise.
+
+#### Subsection B: Articles of Incorporation
+
+A two-thirds (2/3) majority of eligible voting members present at two (2) consecutive regular or special general membership meetings, not less than seven (7) days apart, is required for amendment, provided that the proposed amendment has been submitted to the Secretary before that meeting and it appears on the agenda.
+
+---
+
+## Article 12: Grievances
+
+Each member shall have the right to be able to bring their grievances forward in a safe and just manner, without worry or risk to their position within the corporation. The President shall appoint no less than three (3) persons to serve on the Mediation Committee. Members may be temporarily removed or added from this committee to guarantee a lack of bias or prejudice against the parties involved in the mediation request. A letter of request for mediation must be received by the corporate Secretary and a copy of the request is then forwarded to the chair of the Mediation Committee and the President. The chair can call a Mediation Committee meeting, or send copies of the request to other members of the standing committee and conduct the procedure by conference call.
+
+The first step will be to determine if this is a proper grievance to be investigated by the corporation. (Those actions that violate either Federal or State law should be referred to the proper authorities by the requester, not by the corporation.) At the option of the Mediation Committee and with the permission of the aggrieved parties, the committee may attempt to reconcile the differences without outside assistance. If the attempt is unsuccessful, then an outside, impartial mediator will be contacted by the committee. The mediator will meet individually with both parties and then arrange a joint meeting for resolution. Each party will be allowed to bring one witness, notarized statements from witnesses and one member of their support network (this person will not be able to address the mediator, the situation, or the other parties involved). Guidelines for appropriate behavior will be drawn up and agreed upon by all parties. Repeated violations or disregard for these guidelines will result in the removal from the site or adjournment of the mediation. If the mediator cannot affect a satisfactory resolution, they will make a recommendation to the Mediation Committee, and subject to the approval by the Board, they may suggest further action, including total dismissal.
+
+---
+
+## Article 13: Disciplinary Actions
+
+All members are responsible for their proper conduct. Members who seriously violate any provision of these bylaws; or who act in ways inconsistent and inconsiderate of the corporation's philosophy are subject to disciplinary action. This process is progressive in nature.
+
+In the first instance, the erring individual will be counseled by a FP in a diplomatic manner. Should the erring individual not take immediate action to correct his/her behavior, the issue is brought before the Board. The Board will intercede as it sees fit. Should the individual then fail to take immediate corrective action, the Board will bring the matter before the FP membership for resolution. Disciplinary resolution options require a three-quarter (3/4) majority vote of the assembled FP and are outlined in Sections 1, 2, and 3 of this Article.
+
+### Section 1: Request to Desist
+
+The assembled voting FP may issue a letter to an erring individual, requesting that the individual immediately cease the offending behavior.
+
+### Section 2: Suspension
+
+The assembled voting FP may place the individual under Suspension (Censure). Censured individuals have no voting rights, may not represent the corporation to the press or the community, and may not appear in habit, chair committees, or mentor new members. Other restrictions may be placed on the individual as a condition of censure. The erring individual is under censure for a period of time fixed by the assembled FP. Failure to comply with the guidelines of Censure will be construed as the erring individual's resignation from the corporation.
+
+### Section 3: Excommunication
+
+In the most extreme cases, the assembled voting FP may choose to excommunicate an erring individual. Excommunicated individuals are expelled from the corporation, and have no rights. This tool is reserved only for the most egregious of offenses, and as such requires a three-quarter (3/4) majority vote at two (2) consecutive meetings.

@@ -1,0 +1,371 @@
+---
+title: "Handbook"
+subtitle: "The Sisters of Perpetual Indulgence, Abbey of St. Joan"
+date: "Revised July 3, 2014"
+output:
+  word_document:
+    reference_docx: "../styles/reference.docx"
+    toc: true
+    toc_depth: 3
+  pdf_document:
+    toc: true
+    toc_depth: 3
+    number_sections: false
+---
+
+## Philosophy and Statement of Purpose
+
+In 1979, the Motherhouse in San Francisco announced the reasons for our existence. We are an Order of 21st century nuns dedicated to the promulgation of omniversal joy and the expiation of stigmatic guilt. Our ministry is one of public manifestation and habitual perpetration. No more guilt!
+
+### Diversity
+
+Originally our statement contained the phrase "Gay Male Nuns". Our vision and philosophy have broadened, become more inclusive, and become more consistent with the other aspects of our mission. We are a queer family. "Queer" means the freedom to be an individual within a close-knit family of individuals: diversity and unity. The sisterhood, priesthood or any subset of the Sisters of Perpetual Indulgence (SPI) membership is open to all people. We gladly welcome all races, creeds, genders, and sexual orientations. We are as diverse as our community; therefore we must be all inclusive and non-judgmental when it comes to our membership. Our rules are frequently bent and stretched. Sometimes they must be enforced strictly and other times loosely applied. However, our lengthy screening process for new members became necessary because people were joining with incompatible motives.
+
+### Social Activism
+
+SPI members are, by their very nature, agents of political change. Some members wish to identify only with the social service or spiritual aspects of the Order, but there is no escape from the controversial and political qualities of the membership. Members of SPI plan demonstrations and affect various social issues or organize parties to raise money for charities. The entire membership participates.
+
+### Social Service
+
+SPI printed the world's first safe sex pamphlet, and organized the first AIDS benefit. When we are asked, "Why are you mocking nuns?" we answer: "We are nuns!" We do all that traditional nuns have done for centuries. We have raised lots of money for AIDS and other social causes. We visit the sick, feed the hungry and generally service the community. We are 21st century nuns!
+
+### Freedom of Expression
+
+In keeping with this philosophy we believe there should be few restrictions on our artistic creativity. Although rare, at certain events the Sisters of Perpetual Indulgence requires all Postulants, Novices and Fully Professed Members (FP) to wear traditional habits (though these are usually accessorized with buttons, jewelry, hats, makeup, etc.). Most of the time, we are encouraged to develop wild, abstract habits incorporating the whiteface makeup and wimple into the appearance. This allows the individual spirit open, unrestricted expression. We are artists as well as social activists, and our faces and bodies are our canvases.
+
+### Commitment
+
+Although members attaining Fully Professed status are considered members for life, the road to that end is not an easy one. The Order requires its members, especially new ones, to demonstrate commitment to the ideals of the Order, the community at large and to the individuals that comprise the Sisters of Perpetual Indulgence. As with all nuns, priests, clerics, shamans, Brahmins and other holy individuals around the world, there is inherent in their title an immense amount of self-sacrifice. SPI members may not always agree with each other on a particular direction that the Order is pursuing, but they are expected to work for the good of the group and the community. Many times since the founding of this Order, our members have made personal sacrifices so that the community would reap the full benefits of the efforts of SPI. Members have performed mundane but necessary services to the Order, participated in functions that they would not normally care to attend and given up some of their personal freedoms so that the group would flourish, or even participated with the group though they were in severe physical pain. This is what it is to be a nun, what it is to support the community and what it is to serve the human race.
+
+---
+
+## Membership
+
+### Membership Agreements
+
+Members of SPI-ASJ will be asked to sign a membership agreement (see appendix) at least annually, and with any change in membership status, to be kept on record by the Canoness. Current membership agreements are required to maintain good standing.
+
+### Aspirants
+
+A layperson begins his or her journey to becoming a member of the Order by first becoming an Aspirant. Due to the nature of our ministries members should be over the age of twenty-one (21). Persons wishing to join SPI-ASJ must state their intent at a general membership meeting. Following a statement of intent, all Aspirants are required to attend all general membership meetings or contact the Mistress of Novices in advance to explain why they cannot attend. The individual must maintain a regular presence in the Abbey for at least a two (2) month period. Aspirants are not considered members of SPI-ASJ, and should in no way (through dress or conversation) identify themselves as such. The Aspirant is encouraged to use this time to reflect upon his or her calling and to become better acquainted with the work and mission of the Sisters of Perpetual Indulgence, Abbey of St. Joan. Once these minimum requirements are met, the Aspirant may then request, at a general membership meeting, to be a Postulant. The progression from Aspirant to Postulant does not require a vote of the assembled FP.
+
+### Junior Members
+
+Junior members describes Postulants, Novice Sisters, and Cadet Guards. Junior members cannot vote on progressions or be officers. All junior members are required to attend all general membership meetings or contact the Mistress of Novices in advance to explain why they cannot attend. They are encouraged to participate and help process items at all general membership meetings. They must consult with the Mistress of Novices and their mentor Sisters or Guards regarding questions on the Order. They cannot appear in public without a FP. If no FP is available and permission is obtained in advance, they may attend with another novice or postulant. Junior members may not sponsor an official SPI-ASJ event, and must defer all media interviews to a FP. The general membership may specify certain functions, i.e., fund collecting at fair gates to be "recommended" events for all new members. The Mistress of Novices must notify all new members at least thirty (30) days in advance of any mandatory event approved by the general membership.
+
+### Postulants
+
+Postulants are considered members but have no voting rights. They must maintain a FP as a sponsor. It is the Postulant's duty to learn about the Order and SPI as a whole. They should attend all SPI-ASJ sponsored events in habit and must maintain a regular presence in the Abbey over at least a four (4) month period. Postulants are required to attend at least one (1) Novice Tea, and spend two (2) hours in the archives during their postulancy. After completing these requirements, they may request their sponsor propose them for Novice status at the next regularly scheduled general membership meeting. Upon successful completion of the Postulant period, the new member can choose to become a Novice Sister or a Cadet Guard.
+
+### Novice Sisters
+
+Novice Sisters are considered voting members. They must maintain two (2) FP as Bigs. They are expected to be well versed with all training instruments of the Order including the bylaws and this manual. They must maintain a regular presence in the Abbey over at least a six (6) month period, and complete a Novice Sister project. Novice Sisters are required to attend at least one (1) Novice Tea, and spend four (4) hours in the archives during their novitiate. Upon meeting these minimum requirements they may request that their Big Sisters propose them for Full Profession at the next regularly scheduled general membership meeting. It is the Novice's duty to learn how to become a fully professed Sister of Perpetual Indulgence. Novice Sisters are expected to pay monthly dues as set by the board.
+
+### Cadet Guards
+
+Cadet Guards are considered voting members. They must maintain two (2) FP as Bigs, at least one (1) should be a Guard if available. They are expected to be well versed with all training instruments of the Order including the bylaws and this manual. They must maintain a regular presence in the Abbey over at least a six (6) month period. Cadet Guards must complete self-defense and conflict resolution training, and complete a Cadet Guard project focused on self defense, community safety, or a related topic. Cadet Guards are required to attend at least one (1) Novice Tea, and spend four (4) hours in the archives during their cadetship. Upon meeting these minimum requirements they may request that their Bigs propose them for Full Profession at the next regularly scheduled general membership meeting. It is the Cadet's duty to learn how to become a fully professed Guard within the Sisters of Perpetual Indulgence. Cadet Guards are expected to pay monthly dues as set by the board.
+
+### Fully Professed
+
+Fully Professed Members (FP) are voting members for life, except in the case of resignation, excommunication, or temporary loss of voting privileges pursuant to our bylaws. FP may chair SPI-ASJ sponsored events and help make decisions for the Order. FP are allowed to hold any of the following offices: Deaconess, Prioress, Mistress of Novices and Canoness. FP may additionally be elected to any position on the Board of Directors as stated in the bylaws. FP must attend general membership meetings. FP in good standing may sponsor up to two (2) junior members. The Fully Professed members decide the direction of the Order, the rules, and all important aspects of the organization. FP are expected to pay monthly dues as set by the board.
+
+Guards help ensure that Sisters are safe to do their work. If a FP Guard wishes to take on the role of Sister, they will begin that journey as Novice Sister.
+
+Fully Professed members undertaking a second journey will not have non-manifested membership rights suspended. During their second journey, all of their manifestations must be in their new role unless rare exception is given at the Mistress of Novices' discretion.
+
+#### Fully Professed Sisters and Priests (or FP Sister)
+
+If a FP Sister wishes to take on the role of Guard, they will begin that journey as a Cadet Guard.
+
+#### Guards (or FP Guard)
+
+### Missionary
+
+A Missionary is any FP unable to participate with the Abbey due to physical location but who wishes to continue serving the Order. Any FP may request Missionary status at any time, and their status is approved by a two-thirds (2/3) majority of voting members present at a general membership meeting. They receive a copy of the Missionary document to substantiate their position in the Order. Missionaries are expected to keep in contact with the Order in writing regarding their activities. Missionaries shall have their status reviewed semiannually by the Board of Directors and Mistress of Novices.
+
+### Saints
+
+Saints perform technical duties in support of the Order; hairdresser, seamstress, interpreters, legal counsel, light and sound technicians, etc. Also a Saint could be a person whose life and accomplishments are in keeping with the Order's stated philosophy and statements of purpose. Examples: Cal Anderson, Margarethe Camermeyer, etc. The general membership may vote to ordain the person as a Saint after any service performed by such an individual for the Order. A Saint has no voting rights but may attend general membership meetings and give input on SPI-ASJ issues. Saints cannot chair SPI-ASJ sponsored events or be an officer. They cannot speak to the press or the community on behalf of the Order. They are considered a nonvoting member of the Order. They may wear ecclesiastical garb except for nun or priest habits. A Saint may request to change their status at any time to Postulant.
+
+### Angels
+
+Angels contribute money or materials to the Order. They have no rights within the Order. They do not perform or participate in SPI-ASJ sponsored events in person. Angels are not considered members of the Order.
+
+---
+
+## Appearance
+
+Cleanliness is next to godliness — bathing, brushing teeth, use of deodorant, and (judicious) use of perfume or cologne is greatly appreciated by fellow Members and the community at large.
+
+Habits, formal and festive, should be kept clean and in good repair, and each member's ensemble should be appropriate to the event (i.e., no G-strings when formal habits are required).
+
+Each Member should be prepared to maintain his/her own ensemble; if a costume needs extra attention, they should be prepared to bring what they need with them (extra latex, safety pins, makeup). Members also need to be responsible for their attire decisions (i.e., ultra-high heels for Gay Pride — not the best idea unless you have arches of steel).
+
+---
+
+## Description of Habits
+
+Generally FP are to wear "whiteface" makeup, "Abbey" headpiece with a black or colored veil in the case of nuns, and a black or colored priest shirt and collar in the case of priests. FP must maintain a traditional habit and at least one other "festive" habit, i.e., any color or abstract design of the member's choosing. Fully Professed Members have the right to appear as nuns or priests at their discretion. From time to time, there will be events that require a specific habit for the FP members to wear. The decision for this attire will be discussed and agreed upon prior to the event. Normally, a fully professed Sister manifests in a habit of their choosing, with the following exceptions:
+
+- **Traditional habit:** As issued by SPI-ASJ, with white bib, Abbey headpiece and black veil.
+- **Formal habit:** Abbey colored clothing (white, black, purple or silver), white bib, Abbey headpiece, and colored veil.
+
+**Novice Sisters** are to wear "whiteface" makeup, clothing in the colors of the Abbey (white, black, purple, or silver), white bib, Benedictine-style headpiece, and white veil to all events, unless otherwise directed by the Mistress of Novices.
+
+**Postulants** are required to wear "whiteface" makeup, excluding the mouth (to symbolize their silence and observance of the Order), and the required headpiece, a full length black dress or robe, with long sleeves, and a high collar at all times, unless directed otherwise by the Mistress of Novices.
+
+Accessories that cover either a Novice Sister's white veil or a Postulant's headpiece must be pre-approved by the Mistress of Novices.
+
+**Guards** are to wear black and white "whiteface" makeup (with the option of using one accent color) and all black clothing (with the option of using one accent color).
+
+---
+
+## Approval of New Members and Progression
+
+Big Sisters and Sponsors may propose new members for progression at general membership meetings. At the general membership meeting prior to the new member's vote, the member will submit a resume to the FP membership that details the work they have done in the service of the Order. The new member will be questioned by the Fully Professed members present on a number of topics pertaining to our mission. All nonvoting members and visitors (with the exception of visiting Fully Professed Members) are sent out of the room while the FP discuss the new member. Progression must be approved by a three-quarters (3/4) majority vote. After the vote is taken, the individual is invited back into the room and the candidate is informed of the result and reasons for the approval or denial. Progressions are limited to one (1) Novice Sister to Fully Professed, and two (2) Postulant to Novice (Guard or Sister) per meeting. Quite often new members who have completed all requirements are still not approved due to a number of reasons: needing more time to develop, perfect some defects, needing work on dependability or commitment, etc. This is done with great compassion. Occasionally it is determined that potential new members are not suitable for the Order and great compassion is exercised in informing that person. This is usually done by the Big Sister/Sponsor or the Mistress of Novices. Procedures for progressing Novices to Fully Professed status are essentially the same.
+
+### Transitioning Sisters
+
+When a Fully Professed member from other active Houses of Perpetual Indulgence relocates and wishes to join the Abbey of St. Joan, that FP must present a letter of recommendation from their previous House. To be considered a valid recommendation, the House issuing the letter of recommendation must be considered active and the prospective FP must have been active in that House. For purposes of this section, an active House of Perpetual Indulgence is considered such when they are performing work in accordance with the overall mission of the Sisters of Perpetual Indulgence on a continuing basis.
+
+Upon presenting the letter of recommendation, the new FP will participate in a three (3) month observation of the Abbey. The FP will wear the traditional headpiece of his/her former House, and the habit of the Abbey of St. Joan during this period. FP Guards that are transitioning from another house must follow the dress code of a Guard as described under "Description of Habits" in this handbook. The transitioning FP will have the voting rights appropriate to a novice, and will be entitled to attend all meetings of the Fully Professed membership to observe the process and provide insight. The transitioning FP may not vote on progressions, or matters brought before the Fully Professed membership for a vote.
+
+Upon the conclusion of the three (3) month observation period, the transitioning FP may request to be considered a Fully Professed Member within the Abbey of St. Joan.
+
+Transitioning FP seeking to join the Abbey of St. Joan who cannot present a letter of recommendation from an active House of Perpetual Indulgence will be required to serve a six (6) month period as a Novice, and will be subject to the rules governing Novices.
+
+Transitioning Novices and Guards from other houses wishing to join the Abbey of St. Joan must also present a letter of recommendation as described above. Novices will begin their journey with the Abbey starting with the beginning of the Novice period. Guards will remain guards (subject to the rules governing Guards) and must maintain a FP as a sponsor for one (1) year.
+
+---
+
+## Sponsors & Big Sisters
+
+Any FP in good standing may sponsor a Postulant or Guard or be a Big Sister to a Novice Sister. Sponsors and Big Sisters review the performance and behavior of the new members, make reports to the Mistress of Novices and general membership, answer new member's questions, and act as a liaison between the new member and the Fully Professed Members. They encourage new members to discover a name that fits the individual's character and offer costuming and makeup ideas. They are expected to educate the new member on what it is to be a member as well as what the group will expect of them. A FP may mentor no more than two (2) members at any given time. Due to potential conflicts, members may not sponsor or act as a Big Sister to their spouse, roommate or significant other.
+
+---
+
+## Sabbatical
+
+### Requested Sabbatical
+
+A FP may request a vacation/holiday from SPI-ASJ duties, activities, and participation by delivering a letter to the Prioress stating this desire. The length of the sabbatical can be as long as the member wishes, but the specific duration must be included in the letter. Members on Sabbatical are not required to pay dues. They forfeit all voting rights, the right to chair committees, and the right to mentor new members. During a sabbatical, a member may attend functions or meetings as they choose but may not speak on behalf of the order.
+
+### Administrative Sabbatical
+
+Any FP that does not attend at least two (2) general membership meetings during a calendar year prior to the annual membership meeting shall be placed on indefinite sabbatical at that meeting. The individual shall remain on sabbatical until such time as a two-thirds (2/3) majority of the voting FP present at a general membership meeting votes to return them to normal status or to take further action in regards to the individual.
+
+---
+
+## Membership Closure
+
+Voting members may vote by simple majority to close the Order to new members for a specified period of time.
+
+---
+
+## Mistress/Master Roles
+
+The Mistresses/Masters of SPI-ASJ are functionaries of the Order. They serve the general membership as well as the Board of Directors. They have special responsibilities and special powers, and are appointed by the Board, and are approved by the house. They serve until resignation, or removal. There are no term limits for Mistresses/Masters. Mistresses/Masters are expected to attend all Board Meetings, though they are not necessarily members of the Board. Only FP in good standing may hold these titles.
+
+### Mistress of Archives (Archivist)
+
+The Mistress of Archives is the person who takes responsibility to care for historical records, documents, props, etc. for the Order.
+
+### Mistress of Protocol (Parliamentarian)
+
+The Mistress of Protocol is charged with keeping track of the Policies, Procedures, Bylaws and any other rules of the Order. Their duties shall include the impartial clarification of any written rules of the Order and to help settle any disputes that might arise due to these rules. The Mistress of Protocol may not serve as a corporate officer or member of the Board of Directors.
+
+### Mistress of Propaganda (Spin Doctor)
+
+The Mistress of Propaganda is charged with consulting on the creation of and distribution of information to the press and to the public at large, including the internet. All promotional material must be reviewed by the Mistress of Propaganda to ensure accuracy and to ensure that the material is in keeping with the tone and philosophy of the Abbey and the Sisters of Perpetual Indulgence.
+
+### Mistress of the Web
+
+The Mistress of the Web is charged with selection, configuration and maintenance of the Abbey’s website(s), digital tools and social media accounts. She shall coordinate promotional posting schedules to optimize visibility of the Abbey’s activities electronically. She will assist the Mistress of Propaganda in the cultivation of the Abbey’s online presence, both in tone and style.
+
+### Mistress of Saints and Angels
+
+The Mistress of Saints and Angels is charged with maintaining contact information and records of all Saints and Angels.
+
+### Co-Mistresses of the Abbey's Presence amongst the United Nun's Privy Council
+
+The Co-Mistresses of the Abbey's Presence amongst the United Nun's Privy Council are charged with attending all UNPC meetings, speaking on behalf of the Abbey at said meetings, and disseminating all materials from UNPC meetings to the Abbey.
+
+### Master of the Guard
+
+The Master of the Guard will act as a voice for the Guards as a whole. In the event that there are 5 or more active Guards within the Order, the Board of Directors shall appoint one of them to fill this position. His/her role is to attend all Board meetings, give opinions and input on behalf of all guards, and disseminate information from those meetings to all of the Guards. The Master of the Guard has no other special rights or responsibilities. The Master of the Guard cannot hold any other position on the Board.
+
+---
+
+## Officers
+
+The officers of SPI-ASJ are the backbone of the Order. They serve the general membership as well as the Board of Directors. They have special responsibilities and special powers. Only FP in good standing may hold office.
+
+### Board Elections
+
+Nominations for board positions will be held at the general membership meeting preceding the annual membership meeting. Nominations will remain open until the start of the candidate interviews. A member must be present at the annual membership meeting to accept their nomination.
+
+Candidate interviews will take place prior to voting for new board members. All candidates who have accepted their nominations will undergo an interview by the assembled voting membership.
+
+Voting for board positions will be held each year, with terms running for two (2) years per term (except for the At Large board members, who serve a one (1) year term), with no term limits, starting on January 1st. Voting for the offices of President and Secretary will be one year (odd-numbered years) with the offices of Vice President and Treasurer being voted upon the following year (even-numbered years). Elections are held at the annual membership meeting.
+
+### Prioress (President)
+
+The Prioress convenes and notifies members of general membership meetings as well as chairs general membership meetings. They compile agendas for the general membership. They present information from the official SPI-ASJ telephone line at general membership meetings. They ensure all other officers are fulfilling their duties. The Prioress is the official Chief Executive of the Order and its official spokesperson when no other is specified.
+
+### Mistress of Novices / Sub-Prioress (Vice-President)
+
+The Mistress of Novices interviews Postulants and Novices regarding their progression. They answer members' questions regarding SPI-ASJ rules, history, etc. They make reports at general membership meetings regarding the status of various members and distribute SPI-ASJ habits to Novices and Postulants. They communicate with and track sabbaticals and Missionaries. This position is responsible for distributing all training instruments to Novices and Postulants. They shall hold a "Novice Tea" at least once a quarter to explain the instruments of the Order and to help new members express their ideas and problems in a "safer" environment. The Mistress of Novices is ultimately the individual in charge of all Novices and Postulants.
+
+### Canoness (Secretary)
+
+The Canoness takes and disseminates minutes of all general membership meetings to members. They collect the mail from the SPI-ASJ official mailbox and present mail at general membership meetings. They are responsible for seeing that an accurate attendance record is kept. They are also responsible for maintaining and distributing the official mailing list of the Order. The Canoness is the official Secretary of the Order.
+
+### Deaconess (Treasurer)
+
+The Deaconess deposits money in the SPI-ASJ bank accounts, balances checkbooks and writes checks. They make financial reports at general membership meetings. They are responsible for the collection and recording of membership dues, and good standing. They help file forms with federal and state governments e.g., taxes, etc. They solicit foundations for grants. The Deaconess is the official Chief Financial Officer of the Order.
+
+### At Large
+
+At Large members round out the board, by serving as the voice of the general membership at the board meetings. They assist the officers of the board in their duties.
+
+---
+
+## Behavior
+
+Members of the Order must keep in mind that they ARE the Abbey of St. Joan; their attitude and actions should reflect positively on fellow Members and the Abbey as a whole. Internal Abbey affairs are not to be discussed in public, by any member of SPI-ASJ. Members must take personal responsibility for their actions and attitude at all times. At any time that these actions or attitudes do not reflect positively, the member should be sent home. Safety of those involved should take precedence which could lead to the end of the outing, or event.
+
+Members of the Order need to establish for themselves exactly how much indulgence, concerning alcohol and other libations, is appropriate. All Members need to be aware of each other and our surroundings, and should never feel it is not "her/his place" to politely speak up if problems arise. Members should never feel uncomfortable around other Members.
+
+Remember, we are servants of our community, and as such, should not expect free drinks, cover, etc. We should expect to pay our own way (and leave tips), and show appreciation when gratuities are offered. In general, Members need to bring "mad money" to events in case cabs are required or any other unforeseen expense.
+
+---
+
+## Accountability
+
+If a concern with a certain member's conduct or attitude should arise, action will be taken along the following guidelines:
+
+1. **First Strike** — The incident is brought to the offending member's attention in a diplomatic manner, by a Fully Professed Sister.
+2. **Second Strike** — If Step 1 fails, the matter is brought to the Board's attention, and the Board will intercede as it sees fit.
+3. **Third Strike** — If Step 2 fails, the Board will bring the matter before the FP Membership for Disciplinary Actions.
+
+---
+
+## Dispensation
+
+If a member objects to a standard, that member may present the reasons for the objection at a general membership meeting. If the voting members feel the member has good reason and a two-thirds (2/3) majority votes to approve the dispensation, the member may be granted an exemption. Any request for dispensation from a standard that would normally require a three-quarters majority vote of the general membership must be approved by a three-quarters majority vote. In other words, dispensations cannot be used to overrule the number of votes required on an issue.
+
+---
+
+## Suspension
+
+The FP membership may temporarily suspend (by two-thirds (2/3) majority) any member's rights or privileges as set forth in this manual or in the bylaws for behavior that is deemed inappropriate. This includes, but is not limited to the following:
+
+1. Voting privileges
+2. Appearance in habit
+3. Public representation of the order
+4. Chairing committees
+5. Mentoring new members
+
+Once suspended, a two-thirds (2/3) majority is required to reinstate any rights or privileges.
+
+---
+
+## Excommunication
+
+A three-quarters (3/4) majority of the FP members present at two (2) consecutive general membership meetings must approve the expulsion of another member. This instrument is used as an absolute last resort after all other efforts over an extended period of time have been exhausted. Only the most grievous and offensive actions are subject to this instrument.
+
+---
+
+## General Membership Meetings
+
+General membership meetings are open to anyone who would like to attend. An agenda is followed. Robert's Rules of Order and consensus are both used as informal guidelines during meetings. Any member or guest may bring an item to the floor and engage in discussion. A motion is proposed and seconded only by voting members. A vote is taken to make any decision official. Proxies are not accepted on any vote. A two-thirds (2/3) majority vote is required to approve an SPI-ASJ sponsored event, group policy statements, election of officers, and dispensations. A committee may be set up to further deal with an issue and report back to the general membership.
+
+The second general membership meeting in November is set aside for the election of Board Members, and is called the annual meeting.
+
+---
+
+## Other Meetings
+
+In addition to general membership meetings, there are Board of Directors meetings, Officers meetings, Committee meetings, Novice Teas, FP Teas and Retreats.
+
+1. **Board of Directors meetings** are business meetings where important corporate matters are decided, and the basic direction of the Order is established. Board of Directors meetings are open to all members of the Order as well as guests who are approved in advance with the President of the Board.
+
+2. **Officers meetings** are called from time to time so that the corporate officers can come to decisions about matters that pertain to their functions within the Order. These meetings are for officers and consultants only.
+
+3. **Committee meetings** are for working out the details of a specific or ongoing project. SPI-ASJ has perpetual committees such as Play Fair, Web, and Granting. The committee may be comprised of members of SPI-ASJ as well as specific nonmembers such as an "entertainment coordinator" or a consultant. Only FP may chair a committee. Upon formation of a committee, the general membership votes immediately to approve a chairperson. Committees also follow basic parliamentary procedure and consensus. Any nonmembers may attend committee meetings.
+
+4. **Novice Teas** are designed so that sponsored Postulants and Novices may discuss in confidence their anxieties, concerns and shared situations with the other new members and the Mistress of Novices. These meetings help facilitate solutions for special situations that arise from time to time between new members and other members of the Order or the public. These informal sessions are set up to be fun and social, as well as instructional and insightful. Novice Teas may only be attended by Postulants, Novice Guards, Novice Sisters and the Mistress of Novices. Any other member of the Order may attend at the specific invitation of the Mistress of Novices. Novice Teas are closed to all nonmembers, and shall be held quarterly.
+
+5. **Fully Professed Teas** are designed so that FP membership may discuss in confidence their anxieties, concerns and shared situations with the other FP members. These gatherings help facilitate solutions for special situations that arise from time to time. These informal sessions are set up to be fun and social, as well as insightful. FP Teas may only be attended by FP, and shall be held quarterly, as set by the Prioress. Any other member of the Order may attend at the specific invitation of the Prioress.
+
+6. **Retreats** are meetings of the membership that typically extend for a full day or more. They are usually held in a secluded location where the group can concentrate on getting to know each other and the Order better. Although no "official" business is conducted at these meetings, they can be both formal and/or parties. They may be open to member classification as voted on by the general membership prior to the Retreat. Retreats are not usually open to nonmembers.
+
+---
+
+## Quorum
+
+A general membership meeting may make official decisions if that meeting is attended by one-half plus one (1/2 + 1), rounding up, of the official voting membership.
+
+---
+
+## Official Events
+
+An SPI-ASJ official event must be approved by a two-thirds (2/3) majority of voting members. An event qualifies as official by meeting any of the following requirements:
+
+a. The event is solely sponsored by SPI-ASJ,
+b. Cosponsored by SPI-ASJ, or
+c. SPI-ASJ is a beneficiary.
+
+---
+
+## Financial Policy and Procedures
+
+To provide sound stewardship of the financial resources entrusted to us by our Community, it is the policy of the Sisters of Perpetual Indulgence, the Abbey of St. Joan, to maintain an effective system of internal fiscal controls.
+
+### Cashbox
+
+The petty cash amount in the cashbox shall be $75.00, containing small bills (normally 1's and 5's) and coin. Petty cash amounts larger than the standard $75.00 need to be pre-arranged.
+
+In addition, arrangements need to be made at least one (1) week prior to the day/night of the event with the Treasurer to pick up the cashbox. At the conclusion of the event, the cashbox must be returned to the Treasurer as soon as possible, but no longer than three (3) days after the event. In the event that the Treasurer is not available, the cashbox should be given to the Prioress.
+
+At events, the Abbey cashbox must be monitored at all times by the point nun of the event or by a designated Fully Professed member of the Abbey. The collection of monies at the event can be done by all members of the House, but only Fully Professed members may take the cashbox and money after the event to deliver to the Treasurer.
+
+At the end of an event, two (2) Fully Professed members must count the cashbox in a secure location. The Post Event Cash Count Form must be filled out and signed by two (2) Fully Professed members the night of the event and turned in with the cashbox to the Treasurer for verification. Within two (2) weeks of the event, the Event Disbursement Form must be filled out by the point nun of the event and turned in to the Treasurer. Blank copies of these forms will be kept in the cashbox.
+
+### Monies Raised at Events
+
+Any monies raised at SPI-ASJ-sponsored events (including outreaches) must be turned in to the Treasurer or Prioress within three (3) days of the event. Within three (3) days of receipt, the monies must be deposited into the Abbey bank account by the Treasurer or Prioress. No funds will be distributed to beneficiaries prior to the deposit.
+
+Ten percent (10%) of any funds processed by SPI-ASJ will be retained by the organization.
+
+Monies that come from events sponsored by other organizations at which the Abbey is providing assistance are not required to be deposited into the Abbey bank account.
+
+Unsolicited donations of less than $100 should be turned in to the Treasurer or Prioress at the next General Membership Meeting after receipt of the donation.
+
+### Expenses and Check Reimbursements
+
+Any foreseen and unforeseen expense(s) should be cleared with the Treasurer beforehand to ensure that monies are available in the appropriate Fund to cover the expense(s). Any expenses greater than $75 must be submitted to the House in the form of a budget for approval prior to incurring the expense to guarantee reimbursement. Reimbursement of non-budgeted expenses requires approval by the House prior to disbursal.
+
+Reimbursements for expenses related to SPI-ASJ-sponsored fundraising events must be submitted on the check request form no later than two (2) weeks after the date of the event. Reimbursements for other expenses must be submitted on the check request form no later than thirty (30) days after the date of the expense. Receipts or other documentation of the expense(s) must be attached in order for the check to be disbursed. Expense reimbursement requests must be verified by two (2) Officers prior to check disbursement.
+
+Any reimbursement forms received after the cut-off times will not be honored, and shall be considered as a donation from the individual to the Abbey. Circumstances which do not fit into the above timelines must be pre-approved by two (2) officers (one (1) of whom must be the Treasurer).
+
+Checks for amounts larger than $1,000 require signatures from two (2) officers (one (1) of whom must be the Treasurer).
+
+At no point shall a pre-signed blank check be issued.
+
+### Donation Acknowledgement Letters
+
+Letters of acknowledgement for donations in check form of $25 or greater will automatically be sent by the Treasurer. Donations in cash or less than $25 in check form will not automatically be issued a letter of acknowledgement, but can be requested. Letters need to be signed by the Treasurer for validation.
+
+---
+
+## Grievances
+
+Grievance procedures are a means of dispute resolution that can be used to address complaints by members against SPI-ASJ as a whole. Grievance procedures are intended to allow SPI-ASJ to hear and resolve complaints in a timely and cost effective manner, before they result in litigation.
+
+---
+
+## Rule Changes
+
+Two-thirds (2/3) of the voting general membership must approve changes and additions to this document at two (2) consecutive general membership meetings at least forty-eight (48) hours apart. If any conflict arises regarding this document and the SPI-ASJ Bylaws, the Bylaws supersede this manual.
