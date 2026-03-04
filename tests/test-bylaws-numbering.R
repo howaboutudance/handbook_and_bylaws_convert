@@ -58,3 +58,14 @@ test_that("bare subsection heading gets letter only with no trailing colon", {
   # when there IS a title the colon appears; this tests the titled path
   expect_true(any(grepl("Subsection A: Untitled", out)))
 })
+
+test_that("Subsection following Z continues with AA, AB, etc.", {
+  # paste0 27 times to get to AA, AB, etc.
+  # need a range till 28 to get to AB, which is the first one we test for
+  subsections <- paste0("#### ", c(1:28))
+  md <- paste(c("## A", "### S", subsections), collapse = "\n\n")
+  out <- run_filter(md)
+  expect_true(any(grepl("Subsection Z: 26", out)))
+  expect_true(any(grepl("Subsection AA: 27", out)))
+  expect_true(any(grepl("Subsection AB: 28", out)))
+})

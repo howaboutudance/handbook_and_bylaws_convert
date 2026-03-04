@@ -11,7 +11,16 @@ local section_n    = 0
 local subsection_n = 0
 
 local function to_letter(n)
-  return string.char(64 + n)  -- 1 → "A", 2 → "B", …
+  -- Convert a number to a letter sequence (1 → "A", 2 → "B", …, 27 → "AA", etc.)
+  if n <= 26 then
+    -- for n = 1 to 26, return "A" to "Z"
+    return string.char(64 + n)  -- 1 → "A", 2 → "B", …, 26 → "Z", 27 = "AA", etc.
+  else
+    -- for n > 26, return "AA", "AB", etc.
+    local prefix = to_letter(math.floor((n - 1) / 26))
+    local suffix = to_letter((n - 1) % 26 + 1)
+    return prefix .. suffix
+  end
 end
 
 local function prepend(content, str)
